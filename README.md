@@ -20,8 +20,8 @@ Temas:
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 221007869  |  Artur Henrique Holz Bartz |
+| 221008267  |  Lucas Gama de Araujo Bottino |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
