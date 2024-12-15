@@ -15,6 +15,8 @@ O projeto consiste em resolver 4 questões da plataforma LeetCode, sendo duas d�
 Questões Implementadas:
 Questão 43. Multiply Strings (Dificuldade: Média). Disponível em : (https://leetcode.com/problems/multiply-strings/description/);<br>
 Questão 668. Kth Smallest Number in Multiplication Table (Dificuldade : Difícil). Disponível em : (https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/);<br>
+Questão 315. Count of Smaller Numbers After Self (Dificuldade: Difícil). Disponível em:
+(https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/);<br>
 
 Para o desenvolvimento da questão média 43 foi utilizado o algoritmo de Karatsuba (Multiplicação). Já para o desenvolvimento da questão difícil 668 foi utilizado o algoritmo de Mediana das medianas (MoM - Median of Medians). Em ambos os casos a linguagem utilizada foi Python e, além disso, houve a utilização dos algoritmos abordados em sala de aula com pequenas modificações para estarem de acordo com a solução do problema proposto, porém mantendo-se dentro do conteúdo proposto em sala de aula.
 
