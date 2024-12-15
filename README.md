@@ -19,7 +19,10 @@ Questão 668. Kth Smallest Number in Multiplication Table (Dificuldade : Difíci
 Para o desenvolvimento da questão média 43 foi utilizado o algoritmo de Karatsuba (Multiplicação). Já para o desenvolvimento da questão difícil 668 foi utilizado o algoritmo de Mediana das medianas (MoM - Median of Medians). Em ambos os casos a linguagem utilizada foi Python e, além disso, houve a utilização dos algoritmos abordados em sala de aula com pequenas modificações para estarem de acordo com a solução do problema proposto, porém mantendo-se dentro do conteúdo proposto em sala de aula.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Screenshot da Questão 43:<br>
+![Screenshot Questão 43](imagens/43imagem.jpeg)
+Screenshot da Questão 668:<br>
+![Screenshot Questão 668](imagens/668imagem.jpeg)
 
 ## Instalação 
 **Linguagem**: Python (Questões 43 e 668)<br>
